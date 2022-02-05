@@ -6,6 +6,6 @@
 <p align="left">
   <a href="https://twitter.com/reekdev_ray"><img src="https://img.icons8.com/plasticine/400/000000/twitter--v2.png" width="50"/></a> 
   <a href="https://www.linkedin.com/in/reekdev-ray/"><img src="https://img.icons8.com/plasticine/480/000000/linkedin.png" width="50"/></a>
-  <img src="https://img.icons8.com/plasticine/400/000000/facebook-new.png" width="50"/>
+  <a href="https://www.facebook.com/reek.1729"><img src="https://img.icons8.com/plasticine/400/000000/facebook-new.png" width="50"/></a>
   <a href="mailto:ray.reekdev@gmail.com"><img src="https://img.icons8.com/plasticine/400/000000/gmail-new.png" width="50"/></a>
 </p>
