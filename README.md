@@ -1,7 +1,7 @@
 # Hi, I'm Reek <img src="https://c.tenor.com/nebZyl8oN7IAAAAj/wave-hello.gif" width="40">
 
 
-<h3 align="left"><img src="https://img.icons8.com/stickers/240/000000/share-2.png" width="25"/> Connect with me:</h3>
+<h3 align="left"><img src=connect.png" width="25"/> Connect with me:</h3>
 
 <!-- the connect section -->
 <p align="left">
