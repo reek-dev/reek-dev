@@ -16,7 +16,7 @@
   <a href="mailto:ray.reekdev@gmail.com" target="_blank"><img src="https://img.icons8.com/plasticine/400/000000/gmail-new.png" width="50"/></a>
 </p>
 
-## ![connect-icon](connect.png)My socials — Connect with me:
+<h3 align="left"><img src="connect.png" width="25"/>My socials — Connect with me:</h3>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/reekdev)
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/reekdev_ray) 
