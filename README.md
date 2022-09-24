@@ -7,9 +7,7 @@
 
 <p align="left">
 <!--   Twitter -->
-  <a href="#" rel="noopener" onclick="window.open('https://twitter.com/reekdev_ray','_blank');window.close();return false">
-  <img src="https://img.icons8.com/plasticine/400/000000/twitter--v2.png" width="50"/>
-</a>
+  <a href="https://www.freecodecamp.org/" target="_blank" rel="noopener noreferrer">freeCodeCamp</a>
   
   
   <a href="https://twitter.com/reekdev_ray" target="_blank" rel="noreferrer noopener"><img src="https://img.icons8.com/plasticine/400/000000/twitter--v2.png" width="50"/></a>
