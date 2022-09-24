@@ -7,7 +7,7 @@
 
 <p align="left">
 <!--   Twitter -->
-  <a href="#" onclick='window.open("https://twitter.com/reekdev_ray");return false;'></a>
+  <a href="https://twitter.com/reekdev_ray" onclick='window.open("https://twitter.com/reekdev_ray");return false;'><img src="https://img.icons8.com/plasticine/400/000000/twitter--v2.png" width="50"/></a>
   <a href="https://twitter.com/reekdev_ray" target="_blank"><img src="https://img.icons8.com/plasticine/400/000000/twitter--v2.png" width="50"/></a>
 <!--   LinkedIn -->
   <a href="https://www.linkedin.com/in/reekdev-ray/" target="_blank"><img src="https://img.icons8.com/plasticine/480/000000/linkedin.png" width="50"/></a>
