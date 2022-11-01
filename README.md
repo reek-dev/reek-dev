@@ -7,7 +7,7 @@
 
 <p align="left">
 <!--   Twitter -->
-  <a href="https://twitter.com/reekdev_ray" target="_blank">
+  <a href="https://twitter.com/reekdev" target="_blank">
     <img src="https://img.icons8.com/plasticine/400/000000/twitter--v2.png" width="50"/>
   </a>
 <!--   LinkedIn -->
