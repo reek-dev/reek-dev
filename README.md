@@ -2,7 +2,7 @@
 
 
 <!-- the connect section -->
-<h3 align="left"><img src="connect.png" width="25"/>  My socials — Connect with me:</h3>
+<h3 align="left"><img src="connect.png" width="25"/>  My socials — connect with me:</h3>
 
 
 <p align="left">
