@@ -1,4 +1,5 @@
 # Hi, I'm Reek <img src="https://c.tenor.com/nebZyl8oN7IAAAAj/wave-hello.gif" width="40">
+<p>I am a self-taught passionate developer from India 🇮🇳
 
 
 <!-- the connect section -->
