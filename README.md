@@ -1,10 +1,14 @@
-# Hi, I'm Reek <img src="images/wave.gif" width="40">
+# Hey there!<img src="images/wave.gif" width="40">
 
-<p>I am a self-taught passionate developer from India 🇮🇳</p>
-<p>I learned my programming language back when I was in high school and it was, as you might have already guessed, C.</p>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
+- 🙋‍♂️ I am <a href="bit.ly/reekdev-linkedin">Reekdev Ray</a> **(he/him)**, a passionate developer from India 🇮🇳
+- 📚 I am a **BCA** undergraduate student
+- 💻 Currently learning **full-stack web development**
+- Here is my <a href="bit.ly/reekdev-resume">**resume**</a>
 
 <!-- the connect section -->
-<h3>🌐My socials</h3>
+<h3>Here is how you can reach me</h3>
 
 <p align="left">
 <!--   Twitter -->
@@ -25,27 +29,4 @@
   </a>
 </p>
 
-## More about me
-
-📚 Currently an undergraduate student
-
 # 💻 Tech Stack:
-
-## programming languages
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-
-## libraries
-
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
-
-## web development
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
