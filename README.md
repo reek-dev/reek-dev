@@ -1,5 +1,7 @@
 # Hey there!<img src="images/wave.gif" width="40">
 
+![](https://komarev.com/ghpvc/?username=reek-dev&color=537FE7&style=flat)
+
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 - 🙋‍♂️ I am [Reekdev Ray](https://bit.ly/reekdev-linkedin) **(he/him)**, a passionate developer from India 🇮🇳
