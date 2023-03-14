@@ -2,10 +2,10 @@
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-- 🙋‍♂️ I am [Reekdev Ray](reekdev-linkedin) **(he/him)**, a passionate developer from India 🇮🇳
+- 🙋‍♂️ I am [Reekdev Ray](bit.ly/reekdev-linkedin) **(he/him)**, a passionate developer from India 🇮🇳
 - 📚 I am a **BCA** undergraduate student
 - 💻 Currently learning **full-stack web development**
-- Here is my [**resume**](reekdev-resume)
+- Here is my [**resume**](bit.ly/reekdev-resume)
 
 <!-- the connect section -->
 <h3>Here is how you can reach me</h3>
