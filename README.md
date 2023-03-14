@@ -4,7 +4,7 @@
 
 - 🙋‍♂️ I am [Reekdev Ray](https://bit.ly/reekdev-linkedin) **(he/him)**, a passionate developer from India 🇮🇳
 - 📚 I am a **BCA** undergraduate student
-- 💻 Currently learning **full-stack web development**
+- 💻 Currently learning **full-stack web development** and **Spring Boot**
 - Here is my [**resume**](https://bit.ly/reekdev-resume)
 
 <!-- the connect section -->
@@ -30,3 +30,9 @@
 </p>
 
 # 💻 Tech Stack:
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,javascript,angular,html,css,bootstrap,python,git,bash" />
+  </a>
+</p>
