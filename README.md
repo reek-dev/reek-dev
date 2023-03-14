@@ -1,4 +1,13 @@
-# Hey there!<img src="images/wave.gif" width="40">
+<style>
+
+  @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&display=swap');
+</style>
+
+<h1 style="text-align:center; font-family: 'IBM Plex Mono', monospace; font-size=100px">Hey there <img src="images/wave.gif" width=35/> I'm Reekdev Ray</h1>
+
+<hr style="width:15%; border-style: dotted none none;
+    border-width: 12px;
+    border-color: #93BFCF;">
 
 ![](https://komarev.com/ghpvc/?username=reek-dev&color=537FE7&style=flat)
 
