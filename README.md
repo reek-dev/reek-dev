@@ -1,33 +1,21 @@
-<h1 align="center">Hey there <img src="images/wave.gif" width=35px/> I'm Reekdev Ray</h1>
+<h1 align="center">Hey there <img src="https://i.imgur.com/TSNpxSS.gif" width=30px> I'm Reekdev Ray</h1>
 
 ![](https://komarev.com/ghpvc/?username=reek-dev&color=537FE7&style=flat)
 
 - 🙋‍♂️ I am [Reekdev Ray](https://bit.ly/reekdev-linkedin) **(he/him)**, a passionate developer from India 🇮🇳
-- 📚 I am a **BCA** undergraduate student
+- 📚 I am a **B.C.A.** undergraduate student, seeking opportunity in software development
 - 💻 Currently learning **full-stack web development** and **Spring Boot**
 - Here is my [**resume**](https://bit.ly/reekdev-resume)
 
-<!-- the connect section -->
-<h3>Here is how you can reach me</h3>
+<div align="center" height=300px>
+<img align="left" width=50% src="https://github-readme-stats.vercel.app/api?username=reek-dev&show_icons=true&theme=dark">
+<img align="left" width=43% src="https://github-readme-stats.vercel.app/api/top-langs/?username=reek-dev&layout=compact&hide=html&langs_count=8">
+</div>
 
-<p align="left">
-<!--   Twitter -->
-  <a href="https://twitter.com/reekdev" target="_blank">
-    <img src="https://img.icons8.com/plasticine/400/000000/twitter--v2.png" width="50"/>
-  </a>
-<!--   LinkedIn -->
-  <a href="https://www.linkedin.com/in/reekdev/" target="_blank">
-    <img src="https://img.icons8.com/plasticine/480/000000/linkedin.png" width="50"/>
-  </a>
-<!--   Facebook -->
-  <a href="https://www.facebook.com/reek.1729" target="_blank">
-    <img src="https://img.icons8.com/plasticine/400/000000/facebook-new.png" width="50"/>
-  </a>
-<!--   Mail -->
-  <a href="mailto:ray.reekdev@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/plasticine/400/000000/gmail-new.png" width="50"/>
-  </a>
-</p>
+<br/><br/>
+<br/><br/>
+
+
 
 # 💻 Tech Stack:
 
