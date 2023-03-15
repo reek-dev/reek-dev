@@ -1,4 +1,4 @@
-<h1 align="center">Hey there <img src="https://i.imgur.com/TSNpxSS.gif" width=30px> I'm <strong>Reekdev</strong> Ray</h1>
+<h1 align="center">Hey there <img src="https://i.imgur.com/TSNpxSS.gif" width=30px><br/> I'm <strong>Reekdev</strong> Ray</h1>
 
 ![](https://komarev.com/ghpvc/?username=reek-dev&color=537FE7&style=flat)
 
