@@ -1,4 +1,4 @@
-<h1 align="center">Hey there <img src="https://i.imgur.com/TSNpxSS.gif" width=30px><br/> I'm <strong>Reekdev</strong> Ray</h1>
+<h1 align="center">Hey there <img src="https://i.imgur.com/TSNpxSS.gif" width=30px><br/> I'm **Reekdev** Ray</h1>
 
 ![](https://komarev.com/ghpvc/?username=reek-dev&color=537FE7&style=flat)
 
@@ -8,8 +8,8 @@
 - Here is my [**resume**](https://bit.ly/reekdev-resume)
 
 <div align="center" height=300px>
-<img align="left" width=50% src="https://github-readme-stats.vercel.app/api?username=reek-dev&show_icons=true&theme=dark">
-<img align="left" width=43% src="https://github-readme-stats.vercel.app/api/top-langs/?username=reek-dev&layout=compact&hide=html&langs_count=8">
+<img width=80% src="https://github-readme-stats.vercel.app/api?username=reek-dev&show_icons=true&theme=dark">
+<img width=80% src="https://github-readme-stats.vercel.app/api/top-langs/?username=reek-dev&layout=compact&hide=html&langs_count=8">
 </div>
 
 <br/><br/>
