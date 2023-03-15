@@ -1,17 +1,6 @@
-<style>
-
-  @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&display=swap');
-</style>
-
-<h1 style="text-align:center; font-family: 'IBM Plex Mono', monospace; font-size=100px">Hey there <img src="images/wave.gif" width=35/> I'm Reekdev Ray</h1>
-
-<hr style="width:15%; border-style: dotted none none;
-    border-width: 12px;
-    border-color: #93BFCF;">
+<h1 align="center">Hey there <img src="images/wave.gif" width=35px/> I'm Reekdev Ray</h1>
 
 ![](https://komarev.com/ghpvc/?username=reek-dev&color=537FE7&style=flat)
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 - 🙋‍♂️ I am [Reekdev Ray](https://bit.ly/reekdev-linkedin) **(he/him)**, a passionate developer from India 🇮🇳
 - 📚 I am a **BCA** undergraduate student
