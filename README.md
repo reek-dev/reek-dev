@@ -8,15 +8,15 @@
 - Here is my [**resume**](https://bit.ly/reekdev-resume) (may not be updated)
 
 <div align="center">
-<img width=43% align="left" src="https://github-readme-stats.vercel.app/api?username=reek-dev&show_icons=true&theme=dark">
-<img width=43% src="https://github-readme-stats.vercel.app/api/top-langs/?username=reek-dev&layout=compact&hide=html&langs_count=8">
+<img width=43% align="left" src="https://github-readme-stats.vercel.app/api?username=reek-dev&show_icons=true&theme=dark&border_radius=8.0&title_color=86A3B8">
+<img width=43% src="https://github-readme-stats.vercel.app/api/top-langs/?username=reek-dev&layout=compact&hide=jupyter%20notebook&theme=dark&title_color=86A3B8&border_radius=10.0">
 </div>
 
 <br/><br/>
 # 💻 My tech Stack:
 
 <p align="center">
-  <a href="">
+  <a href=#>
     <img src="https://skillicons.dev/icons?i=java,spring,hibernate,javascript,angular,html,css,bootstrap,python,git,bash" />
   </a>
 </p>
