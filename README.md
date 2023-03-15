@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=reek-dev&color=537FE7&style=flat)
 
-- 🙋‍♂️ I am [Reekdev Ray](https://bit.ly/reekdev-linkedin) **(he/him)**, a passionate developer from India 🇮🇳
+- 🙋‍♂️ I am [**Reekdev Ray**](https://bit.ly/reekdev-linkedin) (he/him), a passionate developer from India 🇮🇳
 - 📚 I am a **B.C.A.** undergraduate student, seeking opportunity in software development
 - 💻 Currently learning **full-stack web development** and **Spring Boot**
 - Here is my [**resume**](https://bit.ly/reekdev-resume)
