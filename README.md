@@ -5,7 +5,7 @@
 - 🙋‍♂️ I am [**Reekdev Ray**](https://bit.ly/reekdev-linkedin) (he/him), a passionate developer from India 🇮🇳
 - 📚 I am a **B.C.A.** undergraduate student, seeking opportunity in software development
 - 💻 Currently learning **full-stack web development** and **Spring Boot**
-- Here is my [**resume**](https://bit.ly/reekdev-resume)
+- Here is my [**resume**](https://bit.ly/reekdev-resume) (may not be updated)
 
 <div align="center">
 <img width=43% align="left" src="https://github-readme-stats.vercel.app/api?username=reek-dev&show_icons=true&theme=dark">
