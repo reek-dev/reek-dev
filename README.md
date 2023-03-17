@@ -8,6 +8,9 @@
 - 📄 Here is my [**resume**](https://bit.ly/reekdev-resume) (may not be updated)
 - ⚡Fun fact about me: there's absolutely nothing fun about me
 
+## My recent technical articles
+ - [Angular services and dependency injection: what its really all about?](https://dev.to/reekdev/angular-services-and-dependency-injection-what-its-really-all-about-2hkc)
+
 <div align="center">
 <img width=43% align="left" src="https://github-readme-stats.vercel.app/api?username=reek-dev&show_icons=true&theme=dark&border_radius=8.0&title_color=86A3B8">
 <img width=43% src="https://github-readme-stats.vercel.app/api/top-langs/?username=reek-dev&layout=compact&hide=jupyter%20notebook&theme=dark&title_color=86A3B8&border_radius=10.0">
