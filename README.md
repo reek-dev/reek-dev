@@ -4,13 +4,7 @@
 
 - 🙋‍♂️ I am [**Reekdev Ray**](https://bit.ly/reekdev-linkedin) (he/him), a passionate developer from India 🇮🇳
 - 📚 I am a **B.C.A.** undergraduate student, seeking opportunity in software development
-- 👨‍💻 Currently learning **full-stack web development** and **Spring Boot**
-- 📄 Here is my [**resume**](https://bit.ly/reekdev-resume-pdf) (may not be updated)
-- ♟️ I like to play Chess
-- ⚡Fun fact about me: there's absolutely nothing fun about me
-
-## My recent technical articles
- - [Angular services and dependency injection: what its really all about?](https://dev.to/reekdev/angular-services-and-dependency-injection-what-its-really-all-about-2hkc)
+- 👨‍💻 Currently learning **full-stack web development** and **Spring Security**
 
 <div align="center">
 <img width=43% align="left" src="https://github-readme-stats.vercel.app/api?username=reek-dev&show_icons=true&theme=dark&border_radius=8.0&title_color=86A3B8">
