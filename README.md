@@ -4,7 +4,7 @@
 
 - 🙋‍♂️ I am [**Reekdev Ray**](https://bit.ly/reekdev-linkedin), a passionate developer from India 🇮🇳
 - 📚 I am a **BCA '23 graduate**, seeking opportunity in software development
-- 👨‍💻 Currently learning **full-stack web development**, **Spring Security**, **Express.js**
+- 👨‍💻 Currently learning **Full-Stack Web Development**, **Spring Security**, and **Express.js**
 - ♟️ I like to play Chess in my free time
 
 ## I also write technical articles in my free time, take a look
