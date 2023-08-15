@@ -20,6 +20,6 @@
 
 <p align="center">
   <a href=#>
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,javascript,typescript,angular,html,css,bootstrap,python,git,bash" />
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,sequelize,javascript,typescript,angular,html,css,bootstrap,python,git,bash" />
   </a>
 </p>
