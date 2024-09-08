@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=reek-dev&color=537FE7&style=flat)
 
-- 🙋‍♂️ I am [**Reekdev Ray**](https://bit.ly/reekdev-linkedin), a computer science grad and an enthusiastic developer from India 🇮🇳
+- 🙋‍♂️ I am [**Reekdev Ray**](https://bit.ly/reekdev-linkedin), a computer science grad and an enthusiastic developer from India
 - ♟️ I like to play Chess in my free time
 
 
