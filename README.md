@@ -2,13 +2,9 @@
 
 ![](https://komarev.com/ghpvc/?username=reek-dev&color=537FE7&style=flat)
 
-- 🙋‍♂️ I am [**Reekdev Ray**](https://bit.ly/reekdev-linkedin), a passionate developer from India 🇮🇳
-- 📚 I am a **BCA '23 graduate**, seeking opportunity in software development
-- 👨‍💻 Currently learning **Full-Stack Web Development**, **Spring Security**, and **Express.js**
+- 🙋‍♂️ I am [**Reekdev Ray**](https://bit.ly/reekdev-linkedin), a computer science grad and an enthusiastic developer from India 🇮🇳
 - ♟️ I like to play Chess in my free time
 
-## I also write technical articles in my free time, take a look
- - [Angular services and dependency injection](https://dev.to/reekdev/angular-services-and-dependency-injection-what-its-really-all-about-2hkc)
 
 <div align="center">
 <img width=43% align="left" src="https://github-readme-stats.vercel.app/api?username=reek-dev&show_icons=true&theme=dark&border_radius=8.0&title_color=86A3B8">
